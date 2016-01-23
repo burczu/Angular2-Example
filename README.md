@@ -1,2 +1,10 @@
-# Angular2-Example
-Example app of Angular 2
+# Angular2 example
+Example app of new Angular 2 framework.
+
+## Installation
+Just run:
+
+`npm install`
+
+## Run
+
