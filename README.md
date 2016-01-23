@@ -1,4 +1,4 @@
-# Angular2 example
+# Angular 2 example
 Example app of new Angular 2 framework.
 
 ## Installation
