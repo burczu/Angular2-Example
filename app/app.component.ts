@@ -2,10 +2,13 @@
  * Created by burczu on 23.01.2016.
  */
 
-import { Component } from 'angular2/core';
+import { Component, View } from 'angular2/core';
 
 @Component({
     selector: 'my-app',
-    template: '<h1>My First Angular 2 App</h1>'
+    templateUrl: 'app/app.template.html'
 })
-export class AppComponent { }
+
+export class AppComponent {
+    public message = 'Hello from component!';
+}
