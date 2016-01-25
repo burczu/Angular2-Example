@@ -3,6 +3,6 @@ import {Component} from 'angular2/core';
     selector: 'custom-directive',
     templateUrl: 'app/directive.template.html'
 })
-export default class DirectiveComponent {
+export class DirectiveComponent {
     public message: 'Hello from directive!';
 }
